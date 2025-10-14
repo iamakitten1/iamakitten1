@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-<br>Hi there! I'm Maia 👋  <br>💻 Aspiring Frontend Developer | 🎯 Learning JavaScript & React  <br>🌍 Exploring Italian and enhancing my English  <br>⚔️ Fan of Vikings & Elves | 🍲 Passionate Cook | 🧳 Travel Enthusiast  <br>🎮 Total Battle Strategist in my spare time  <br><br>---<br>## 🚀 Tech Stack:<br>- 🧠 JavaScript (Deep dive into Prototypes & Classes)  <br>- ⚛️ React (On a journey to master it!)  <br>- 🌐 HTML, CSS  <br>- 🛠️ PHP (Some hands-on experience)  <br>- 🎯 WordPress (Built a few projects with it)  <br>- 🌟 Learning Italian and English  <br><br><br>---<br><br>## 🎯 Current Goals:<br>- 🎧 Master React & JavaScript  <br>- 🎯 Build 3 solid projects to showcase  <br>- 🌍 Become fluent in Italian  <br>- ✈️ Travel to new places and learn from different cultures  <br><br>---
+<br>Hi there! I'm Maia 👋  <br>💻 Aspiring Frontend Developer | 🎯 Learning JavaScript & React  <br>🌍 Exploring Italian and enhancing my English  <br>⚔️ Fan of Vikings & Elves | 🍲 Passionate Cook | 🧳 Travel Enthusiast  <br>🎮 Total Battle Strategist in my spare time  <br><br>---<br>## 🚀 Tech Stack:<br>- 🧠 JavaScript   <br>- ⚛️ React   <br>- 🌐 HTML, CSS  <br>- 🛠️ PHP (Some hands-on experience)  <br>- 🎯 WordPress (Built a few projects with it)  <br>- 🌟 Learning Italian, Greek and English  <br><br><br>---<br><br>## 🎯 Current Goals:<br>- 🎧 Master React & JavaScript  <br>- 🎯 Build 3 solid projects to showcase  <br>- 🌍 Become fluent in Italian  <br>- ✈️ Travel to new places and learn from different cultures  <br><br>---
 
 
 ## 🌐 Socials:
